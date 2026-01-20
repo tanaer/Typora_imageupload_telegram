@@ -66,8 +66,8 @@
 
 | 键名 | 描述 | 默认值 / 示例 |
 | :--- | :--- | :--- |
-| `api_url` | 上传 API 接口地址 | `https://cfpic.890214.net/upload` |
-| `base_url` | 返回 URL 的域名 | `https://cfpic.890214.net` |
+| `api_url` | 上传 API 接口地址 | `https://xxx.com/upload` |
+| `base_url` | 返回 URL 的域名 | `https://xxx.com` |
 | `auth_code` | 你的认证代码 | `imgbed_...` |
 | `upload_channel` | 上传渠道策略 | `telegram` |
 

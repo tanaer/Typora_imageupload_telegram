@@ -66,8 +66,8 @@ No Python installation required.
 
 | Key | Description | Default / Example |
 | :--- | :--- | :--- |
-| `api_url` | The upload API endpoint | `https://cfpic.890214.net/upload` |
-| `base_url` | The domain for the returned URL | `https://cfpic.890214.net` |
+| `api_url` | The upload API endpoint | `https://xxx.com/upload` |
+| `base_url` | The domain for the returned URL | `https://xxx.com` |
 | `auth_code` | Your authentication code | `imgbed_...` |
 | `upload_channel` | Upload channel strategy | `telegram` |
 
