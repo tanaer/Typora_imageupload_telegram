@@ -41,6 +41,7 @@ No Python installation required.
     - **Command**: Enter the absolute path to your downloaded executable.
       - Example (Windows): `C:\Users\You\Tools\typora-upload-win.exe`
       - Example (Mac/Linux): `/usr/local/bin/typora-upload-mac` (Make sure to `chmod +x` it first)
+<img width="1492" height="638" alt="image" src="https://github.com/user-attachments/assets/73efc28b-0111-47c8-9f1e-1e609bb5a0f0" />
 
 4.  **Test**: Click "Test Uploader" in Typora to verify.
 
