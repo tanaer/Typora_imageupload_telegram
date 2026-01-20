@@ -41,6 +41,7 @@
     - **命令**：输入下载的可执行文件的绝对路径。
       - 示例 (Windows): `C:\Users\You\Tools\typora-upload-win.exe`
       - 示例 (Mac/Linux): `/usr/local/bin/typora-upload-mac` (请先执行 `chmod +x` 赋予执行权限)
+<img width="1492" height="638" alt="image" src="https://github.com/user-attachments/assets/73efc28b-0111-47c8-9f1e-1e609bb5a0f0" />
 
 4.  **测试**：点击 Typora 中的“验证图片上传选项”进行测试。
 
