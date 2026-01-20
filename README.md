@@ -1,5 +1,7 @@
 # Typora Image Uploader (Cloudflare / Telegram)
 
+[English](README.md) | [中文](README_zh.md)
+
 A custom image upload command for [Typora](https://typora.io/), uploading images to a Cloudflare Image Bed (via Telegram channel).
 
 ## Features
