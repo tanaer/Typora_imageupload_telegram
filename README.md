@@ -27,8 +27,8 @@ No Python installation required.
     *Example `config.json`:*
     ```json
     {
-        "api_url": "https://cfpic.890214.net/upload",
-        "base_url": "https://cfpic.890214.net",
+        "api_url": "https://xxx.com/upload",
+        "base_url": "https://xxx.com",
         "auth_code": "YOUR_AUTH_CODE",
         "upload_channel": "telegram"
     }
